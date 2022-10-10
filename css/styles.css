@@ -1,0 +1,22 @@
+.wukong {
+    width: 200px;
+    height: 350px;
+    border-color: rgb(0, 204, 255);
+    border-width: 10px;
+    border-style: ridge;
+    border-radius: 70px;
+}
+
+h1, h2, h3 {
+    display: inline;
+    border-color: rgb(0, 204, 255);
+    border-width: 5px;
+    border-style: ridge;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+html {
+    background-color: rgb(26, 26, 26);
+}
