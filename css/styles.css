@@ -20,3 +20,7 @@ h1, h2, h3 {
 html {
     background-color: rgb(26, 26, 26);
 }
+
+hr {
+    border-color: rgb(0, 140, 175);
+}
